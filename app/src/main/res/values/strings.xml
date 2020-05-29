@@ -1,3 +1,47 @@
 <resources>
     <string name="app_name">PatriciaRivera-examen</string>
+
+    <string name="usuario_conectado">Usuario Conectado</string>
+    <string name="salida_usuario">Su Usuario Conectado</string>
+
+    <string name="login">Login</string>
+    <string name="usuario">Usuario</string>
+    <string name="clave">Clave</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="ingreso_usuario">Ingrese su Usuario</string>
+    <string name="ingreso_clave">Ingrese su Clave</string>
+
+    <string name="registro">Registro</string>
+    <string name="nombre">Nombre:</string>
+    <string name="monto_inicial">Monto Inicial:</string>
+    <string name="pago_mensual">Pago Mensual:</string>
+    <string name="calcular">Calcular</string>
+    <string name="guardar">Guardar</string>
+    <string name="ingreso_nombre">Ingrese su Nombre</string>
+    <string name="ingreso_monto">Ingrese su Monto Inicial</string>
+    <string name="salida_pago">Su Pago Mensual</string>
+
+    <string name="encuesta">Encuesta</string>
+    <string name="preguta1">Por que eligio este centro?</string>
+    <string name="preguta2">Que deportes practica?</string>
+    <string name="preguta3">Esta interesado en aprender otro idioma aparte de ingles?</string>
+    <string name="deporte1">Basket</string>
+    <string name="deporte2">Futbol</string>
+    <string name="deporte3">Volley</string>
+    <string name="respuesta1">Si</string>
+    <string name="respuesta2">No</string>
+    <string name="enviar">Enviar</string>
+    <string name="ingreso_respuesta">Ingrese su Respuesta</string>
+
+    <string name="resumen">Resumen</string>
+    <string name="nombre_ingresado">Nombre del Usuario</string>
+    <string name="total">Total a Pagar</string>
+    <string name="respuesta1_ingresada">Respuesta Pregunta 1</string>
+    <string name="deporte_ingresado">Respuesta Pregunta 2</string>
+    <string name="respuesta2_ingresada">Respuesta Pregunta 3</string>
+    <string name="salida_nombre">Su Nombre</string>
+    <string name="salida_total">Su Total a Pagar</string>
+    <string name="salida_respuesta1">Su Respuesta 1</string>
+    <string name="salida_deporte">Su Respuesta 2</string>
+    <string name="salida_respuesta2">Su Respuesta 3</string>
 </resources>
